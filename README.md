@@ -3,7 +3,7 @@ An app that displays landing page with tabs view
 
 ### Features
 + Beautiful UI
-+ Reusuable Tabs and Tab Component
++ Reusable Tabs and Tab Component
 ##### Built With
 + HTML5
 + SASS
@@ -18,7 +18,7 @@ clone repo
 run `npm run serve`
 
 # Live Version
-#### URL: [Explore Cosmos](https://vue-landing-page-jade.vercel.app)
+#### URL: [View Page](https://vue-landing-page-jade.vercel.app)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
