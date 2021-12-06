@@ -24,6 +24,9 @@ export default {
 
 .Card {
 	text-align: center;
+	border-radius: 2px;
+	overflow: hidden;
+	max-width: 30rem;
 
 	&:hover {
 		cursor: pointer;

@@ -35,10 +35,6 @@ export default {
 	padding: 0 1.2rem;
 	display: flex;
 	justify-content: space-between;
-
-	& > * {
-		margin-right: 3rem;
-	}
 }
 	
 </style>

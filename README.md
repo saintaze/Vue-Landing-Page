@@ -1,24 +1,24 @@
-# bakpack-test
+# Vue-Landing-Page
+An app that displays landing page with tabs view  
 
-## Project setup
-```
-yarn install
-```
+### Features
++ Beautiful UI
++ Reusuable Tabs and Tab Component
+##### Built With
++ HTML5
++ SASS
++ Vue 3
++ Vuex
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### Getting Started
+clone repo
 
-### Compiles and minifies for production
-```
-yarn build
-```
+`cd` into folder and run `npm install`
 
-### Lints and fixes files
-```
-yarn lint
-```
+run `npm run serve`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Live Version
+#### URL: [Explore Cosmos](https://vue-landing-page-jade.vercel.app)
+
+# Author
+Saintaze [@saintaze](https://github.com/saintaze/)
