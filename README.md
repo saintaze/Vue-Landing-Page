@@ -18,7 +18,7 @@ clone repo
 run `npm run serve`
 
 # Live Version
-#### URL: [View Page](https://vue-landing-page-jade.vercel.app)
+#### URL: [View Page](https://vue-landing-page-ayezahmed.vercel.app)
 
 # Author
 Saintaze [@saintaze](https://github.com/saintaze/)
